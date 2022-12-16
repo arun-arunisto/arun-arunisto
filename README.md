@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arun-arunisto
+- 👋 Hi, I’m arun-arunisto
 - 👀 I’m interested in ... new emerging Technologies
 - 🌱 I’m currently learning ... AR VR Robotics C# .net Framework, js, java
 - 💞️ I’m looking to collaborate on ... <3
