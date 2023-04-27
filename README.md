@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=arun-arunisto&show_icons=true&theme=dark" />
   &nbsp;
   &nbsp;
-  <img style="height: auto; width: 45%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=arun-arunisto" />
+  <img style="height: auto; width: 45%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-arunisto&theme=white&hide_border=true" />
 </div>
 <!-----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arun-arunisto&show_icons=true&theme=dark)
