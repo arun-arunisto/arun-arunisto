@@ -11,10 +11,10 @@ arun-arunisto/arun-arunisto is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <div class="container" align="center">
-  <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=arun-arunisto&show_icons=true&theme=dark" />
+  <img style="height: 45%; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=arun-arunisto&show_icons=true&theme=dark" />
   &nbsp;
   &nbsp;
-  <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-arunisto&layout=compact" />
+  <img style="height: 45%; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-arunisto&layout=compact" />
 </div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arun-arunisto&show_icons=true&theme=dark)
 
