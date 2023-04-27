@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-![Snake animation](https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake2.svg)
 
 
 <!-----
