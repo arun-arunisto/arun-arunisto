@@ -23,7 +23,8 @@
 <br>
 <br>
 <div align="center">
-  <h3 align="center"> Computer Enthusiast | Pythonista | Cyborg </h2>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Farun-arunisto%2F&psig=AOvVaw3ICD0yjEkYNoAnVbME_R0d&ust=1682663056449000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDh7_61yf4CFQAAAAAdAAAAABAE" alt="arunisto">
+  <h3 align="center"> Computer Enthusiast | Pythonista </h2>
 </div>
 <!---
 arun-arunisto/arun-arunisto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
