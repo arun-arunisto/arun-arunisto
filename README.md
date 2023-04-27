@@ -1,5 +1,5 @@
 <div class="conainer" align="center">
-  <h1>| ARUN ARUNISTO |</h2>
+  <h1><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/> | ARUN ARUNISTO | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/></h2>
 </div>
 <!---- Typing Card ----->
 <div class="container" align="center">
