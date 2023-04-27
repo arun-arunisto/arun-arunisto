@@ -39,9 +39,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 <div class="container" align="center">
   <img style="height: auto; width: 50%;" class="img" src="https://i.pinimg.com/originals/df/a5/a3/dfa5a3d4d295d8e889ffd639892a2f99.gif" />
-  <h2 align="center"> | ARUN ARUNISTO | </h2>
-  <h3 align="center" style="color: green;"> | COMPUTER ENTHUSIAST | </h3>
-  <p align="center"><b>proud to be say an <i>PYTHONISTA</i></b><p>
 </div>
 <!-----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arun-arunisto&show_icons=true&theme=dark)
