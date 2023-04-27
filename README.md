@@ -20,6 +20,11 @@
 <br>
 <!---- skills os ------->
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+<br>
+<br>
+<div align="center">
+  <h3 align="center"> Computer Enthusiast | Pythonista | Cyborg </h2>
+</div>
 <!---
 arun-arunisto/arun-arunisto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
