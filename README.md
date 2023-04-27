@@ -5,6 +5,9 @@
 <!---- widgetbox ----->
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=arun-arunisto&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
+
+<!---- skills Programming Language ------>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,html,css,js,java,csharp,bash,postgresql,mysql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 <!---
 arun-arunisto/arun-arunisto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
