@@ -11,7 +11,7 @@ arun-arunisto/arun-arunisto is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <div class="container" align="center">
-  <img style="width: auto;" class="img" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" />
+  <img width="250" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" />
 </div>
 <br>
 <br>
