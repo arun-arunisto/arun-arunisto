@@ -1,9 +1,5 @@
-- 👋 Hi, I’m arun-arunisto
-- 👀 I’m interested in ... new emerging Technologies
-- 🌱 I’m currently learning ... AR VR Robotics C# .net, js, java
-- 💞️ I’m looking to collaborate on ... <3
-- 📫 How to reach me ... https://arunisto.pythonanywhere.com
-- personal portfolio ... https://arunistocomrade.pythonanywhere.com/
+<!---- Typing Card ----->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Arun+Arunisto;I'm+a+programmer.+I+have+no+life.;I+only+have+deadlines.;I'm+not+that+special.+;I'm+just+anonymous.+I'm+just+alone.)](https://git.io/typing-svg)
 
 <!---
 arun-arunisto/arun-arunisto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
