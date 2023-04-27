@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 <div class="container" align="center">
-  <img style="height: auto; width: 100%;" class="img" src="https://i.pinimg.com/originals/ba/1a/1c/ba1a1cc83609b956ed9cc07d7f9c62e4.gif" /> 
+  <img style="height: auto; width: 100%;" class="img" src="https://tenor.com/blSnC.gif" /> 
 </div>
 <!-----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arun-arunisto&show_icons=true&theme=dark)
