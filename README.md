@@ -40,6 +40,11 @@ You can click the Preview link to take a look at your changes.
 <div class="container" align="center">
   <img style="height: auto; width: 50%;" class="img" src="https://github.com/arun-arunisto/logos/blob/todo/Logos/Robert%20Downey%20Jr%20Tony%20Stark%20GIF%20-%20Robert%20Downey%20Jr%20Tony%20Stark%20Iron%20Man%20-%20Discover%20%26%20Share%20GIFs.gif" />
 </div>
+<div class="container" align="center">
+  <h2 align="center">| ARUN ARUNISTO |</h2>
+  <h3 align="center">| COMPUTER ENTHUSIAST |</h3>
+  <p align="center">Delighted to identify as a <i>Pythonista</i>.</p>
+</div>
 <!-----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arun-arunisto&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-arunisto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
