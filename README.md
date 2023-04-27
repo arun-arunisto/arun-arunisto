@@ -25,6 +25,11 @@ You can click the Preview link to take a look at your changes.
   &nbsp;
   <img style="height: auto; width: 45%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-arunisto&theme=white&hide_border=true" />
 </div>
+<br>
+<br>
+<div class="container" align="center">
+  <img style="height: auto; width: 100%;" class="img" src="https://i.pinimg.com/originals/ba/1a/1c/ba1a1cc83609b956ed9cc07d7f9c62e4.gif" /> 
+</div>
 <!-----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arun-arunisto&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-arunisto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
