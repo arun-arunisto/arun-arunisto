@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 <div class="container" align="center">
-  <img style="height: auto; width: 100%;" class="img" src="https://tenor.com/blSnC.gif" /> 
+  <img style="height: auto; width: 100%;" class="img" src="https://media.tenor.com/dJr7VAtuMyMAAAAd/transformers-megatron.gif" /> 
 </div>
 <!-----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arun-arunisto&show_icons=true&theme=dark)
