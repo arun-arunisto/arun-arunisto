@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 <div class="container" align="center">
-  <img style="height: auto; width: 50%;" class="img" src="https://i.pinimg.com/originals/df/a5/a3/dfa5a3d4d295d8e889ffd639892a2f99.gif" />
+  <img style="height: auto; width: 50%;" class="img" src="https://media.tenor.com/2po2lr4JoTQAAAAS/robert-downey-jr-tony-stark.gif" />
 </div>
 <!-----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arun-arunisto&show_icons=true&theme=dark)
