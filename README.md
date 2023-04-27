@@ -11,7 +11,10 @@
 <br>
 <br>
 <!---- skills frameworks ------>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=django,flask&includenames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=django,flask&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+<br>
+<br>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,heroku,jupyter&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 <!---
 arun-arunisto/arun-arunisto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
