@@ -10,9 +10,7 @@
 arun-arunisto/arun-arunisto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div class="container" align="center">
-  <img width="250" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&weight=500&size=100&pause=1000&color=1AF749&background=191A1900&center=true&vCenter=true&width=600&height=300&lines=EAT;SLEEP;CODE;REPEAT)](https://git.io/typing-svg)
 <br>
 <br>
 <div class="container" align="center">
