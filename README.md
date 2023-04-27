@@ -31,7 +31,6 @@ You can click the Preview link to take a look at your changes.
   <h3 align="center">| COMPUTER ENTHUSIAST |</h3>
   <p align="center">Delighted to identify as a <i>Pythonista</i>.<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/></p>
 </div>
-
 <!-----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arun-arunisto&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-arunisto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
