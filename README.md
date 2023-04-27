@@ -6,34 +6,11 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=arun-arunisto&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 <br>
 <br>
-<!---- skills Programming Language ------>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,html,css,js,java,csharp,bash,postgresql,mysql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-<br>
-<br>
-<!---- skills frameworks ------>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=django,flask&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-<br>
-<br>
-<!---- skills tools ----->
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,heroku,jupyter&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-<br>
-<br>
-<!---- skills os ------->
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-<br>
-<br>
-<!----- social Profiles ----->
-<div align="center">
-  <a href="">[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/arunisto)</a>
-</div>
 <!---
 arun-arunisto/arun-arunisto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arun-arunisto&show_icons=true&theme=dark)
-
-
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-arunisto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
