@@ -45,6 +45,7 @@ You can click the Preview link to take a look at your changes.
   <hr>
   <img src="https://img.icons8.com/color/48/null/python--v1.png" alt="skills python" />
   <img src="https://img.icons8.com/color/48/null/html-5--v1.png" alt="skills html" />
+  <img src="https://img.icons8.com/color/48/null/css3.png" alt="skills css" />
 </div>
 <div class="container" align="center">
   <img src="https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
