@@ -56,6 +56,11 @@ You can click the Preview link to take a look at your changes.
 <div class="container" align="center">
   <img src="https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
 </div>
+<div class="container" align="center">
+  <h3 align="center"> SOCIAL MEDIA </h3>
+  <hr>
+  <a href="https://www.instagram.com/arunisto"><img src="https://img.icons8.com/color/48/null/instagram-new--v1.png" alt="instagram" /></a>
+</div>
 <!-----
 ![snake animation](https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake2.svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arun-arunisto&show_icons=true&theme=dark)
