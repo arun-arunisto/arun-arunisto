@@ -1,3 +1,8 @@
+<style>
+  .container {
+    margin: 0 10px 0 10px;
+  }
+</style>
 <div class="conainer" align="center">
   <h1><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/> | ARUN ARUNISTO | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/></h2>
 </div>
@@ -5,7 +10,7 @@
 <!---- Typing Card ----->
 <div class="container" align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&weight=100&duration=3000&pause=500&color=1AF749&background=191A1900&center=true&vCenter=true&width=600&height=300&lines=Hi%2C+I'm+Arun+Arunisto;I'm+a+programmer.;I+have+no+life.+I+only+have+deadlines.;I'm+not+that+special.;I'm+just+anonymous.+I'm+just+alone." alt="Typing SVG" /></a>
-</div>  
+</div>
 <!---- widgetbox ----->
 
 
@@ -36,12 +41,12 @@ You can click the Preview link to take a look at your changes.
   <img style="height: auto; width: 100%;" class="img" src="https://media.tenor.com/2po2lr4JoTQAAAAd/robert-downey-jr-tony-stark.gif" />
 </div>
 <div class="container" align="center">
-  <h2 align="center">| ARUN ARUNISTO |</h2>
-  <h3 align="center">| COMPUTER ENTHUSIAST |</h3>
-  <p align="center">Delighted to identify as a <i>Pythonista</i>.<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/></p>
+  <h2>| ARUN ARUNISTO |</h2>
+  <h3>| COMPUTER ENTHUSIAST |</h3>
+  <p>Delighted to identify as a <i>Pythonista</i>.<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/></p>
 </div>
 <div class="container" align="center">
-  <h3 align="center">SKILLS</h3>
+  <h3>SKILLS</h3>
   <hr>
   <img src="https://img.icons8.com/color/48/null/python--v1.png" alt="skills python" />
   <img src="https://img.icons8.com/color/48/null/html-5--v1.png" alt="skills html" />
@@ -54,7 +59,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.icons8.com/color/48/null/linux--v1.png" alt="skills linux" />
 </div>
 <div class="container" align="center">
-  <h3 align="center">INSPIRED HEROES</h3>
+  <h3>INSPIRED HEROES</h3>
   <hr>
   <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/ef/95/71/ef9571be608ba91555491782e7a6d9ed.jpg" alt="einstein" />
   <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/00/f2/ce/00f2ce959e16610876c75debdfde58de.jpg" alt="oppenheimer" />
@@ -64,7 +69,7 @@ You can click the Preview link to take a look at your changes.
   <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/fe/96/ac/fe96ac7a018650bfee35aaade3eba067.jpg" alt="elon" />
 </div>
 <div class="container" align="center">
-  <h3 align="center"> SOCIAL MEDIA </h3>
+  <h3> SOCIAL MEDIA </h3>
   <hr>
   <a href="https://www.instagram.com/arunisto"><img src="https://img.icons8.com/color/48/null/instagram-new--v1.png" alt="instagram" /></a>
   <a href="https://www.facebook.com/arunarunisto"><img src="https://img.icons8.com/color/48/null/facebook.png" alt="facebook" /></a>
