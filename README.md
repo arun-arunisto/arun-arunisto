@@ -64,15 +64,21 @@ You can click the Preview link to take a look at your changes.
   <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/fe/96/ac/fe96ac7a018650bfee35aaade3eba067.jpg" alt="elon" />
 </div>
 <div class="container" align="center">
-  <img src="https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
-</div>
-<div class="container" align="center">
   <h3 align="center"> SOCIAL MEDIA </h3>
   <hr>
   <a href="https://www.instagram.com/arunisto"><img src="https://img.icons8.com/color/48/null/instagram-new--v1.png" alt="instagram" /></a>
   <a href="https://www.facebook.com/arunarunisto"><img src="https://img.icons8.com/color/48/null/facebook.png" alt="facebook" /></a>
   <a href="https://www.linkedin.com/in/arunisto"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
   <a href="https://arunistocomrade.pythonanywhere.com/"><img src="https://img.icons8.com/color/48/null/domain--v1.png"/></a>
+</div>
+<br>
+<br>
+<div class="container" align="center">
+  <img src="https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
+</div>
+<br>
+<div class="container" align="center">
+  <img src="https://media.tenor.com/HU18oEboPrgAAAAd/joker-bloody-smile-joker.gif" alt="joker" />
 </div>
 <!-----
 ![snake animation](https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake2.svg)
