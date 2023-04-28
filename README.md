@@ -41,12 +41,13 @@ You can click the Preview link to take a look at your changes.
   <p align="center">Delighted to identify as a <i>Pythonista</i>.<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/></p>
 </div>
 <div class="container" align="center">
+  <h3 align="center">SKILLS</h3>
+  <hr>
+  <img src="https://icons8.com/icon/Rc0Xn5AtE8kX/python" alt="python">
+</div>
+<div class="container" align="center">
   <img src="https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
 </div>
-
-
-
-
 <!-----
 ![snake animation](https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake2.svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arun-arunisto&show_icons=true&theme=dark)
