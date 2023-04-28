@@ -57,6 +57,7 @@ You can click the Preview link to take a look at your changes.
   <h3 align="center">INSPIRATION</h3>
   <hr>
   <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/ef/95/71/ef9571be608ba91555491782e7a6d9ed.jpg" alt="einstein" />
+  <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/00/f2/ce/00f2ce959e16610876c75debdfde58de.jpg" alt="oppenheimer" />
 </div>
 <div class="container" align="center">
   <img src="https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
