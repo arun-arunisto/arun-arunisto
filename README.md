@@ -24,26 +24,38 @@ You can click the Preview link to take a look at your changes.
 <div class="container" align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&weight=500&size=100&duration=1000&pause=100&color=1AF749&background=191A1900&center=true&vCenter=true&width=600&height=300&lines=EAT;SLEEP;CODE;REPEAT" alt="Typing SVG" /></a>
 </div>
+<br>
+<br>
 <div class="container" align="center">
   <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=arun-arunisto&show_icons=true&theme=dark" />
   &nbsp;
   &nbsp;
   <img style="height: auto; width: 45%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-arunisto&theme=white&hide_border=true" />
 </div>
+<br>
+<br>
 <div class="container" align="center">
   <img style="height: auto; width: 100%;" class="img" src="https://media.tenor.com/rzRPsXfepLkAAAAd/megatron-transformers.gif" /> 
 </div>
+<br>
+<br>
 <div class="container" align="center">
   <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-arunisto&layout=compact" />
 </div>
+<br>
+<br>
 <div class="container" align="center">
   <img style="height: auto; width: 100%;" class="img" src="https://media.tenor.com/2po2lr4JoTQAAAAd/robert-downey-jr-tony-stark.gif" />
 </div>
+<br>
+<br>
 <div class="container" align="center">
   <h2>| ARUN ARUNISTO |</h2>
   <h3>| COMPUTER ENTHUSIAST |</h3>
   <p>Delighted to identify as a <i>Pythonista</i>.<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/></p>
 </div>
+<br>
+<br>
 <div class="container" align="center">
   <h3>SKILLS</h3>
   <hr>
@@ -57,6 +69,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.icons8.com/color/48/null/windows-10.png" alt="skills w10"/>
   <img src="https://img.icons8.com/color/48/null/linux--v1.png" alt="skills linux" />
 </div>
+<br>
+<br>
 <div class="container" align="center">
   <h3>INSPIRED HEROES</h3>
   <hr>
@@ -67,6 +81,8 @@ You can click the Preview link to take a look at your changes.
   <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/f4/ce/bf/f4cebf7f7467f025a8e84a549ac87540.jpg" alt="jobs" />
   <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/fe/96/ac/fe96ac7a018650bfee35aaade3eba067.jpg" alt="elon" />
 </div>
+<br>
+<br>
 <div class="container" align="center">
   <h3> SOCIAL MEDIA </h3>
   <hr>
