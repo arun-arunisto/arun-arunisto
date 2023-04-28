@@ -50,6 +50,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.icons8.com/color/48/null/django.png" alt="skills django" />
   <img src="https://img.icons8.com/color/48/null/flask.png" alt="skills flask" />
   <img src="https://img.icons8.com/color/48/null/mysql-logo.png" alt="skills mysql" />
+  <img src="https://img.icons8.com/color/48/null/windows-10.png" alt="skills w10"/>
 </div>
 <div class="container" align="center">
   <img src="https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
