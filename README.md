@@ -77,8 +77,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
 </div>
 <br>
+<br>
 <div class="container" align="center">
-  <img src="https://media.tenor.com/HU18oEboPrgAAAAd/joker-bloody-smile-joker.gif" alt="joker" />
+  <img style="height: auto; width: 100%;" src="https://media.tenor.com/HU18oEboPrgAAAAd/joker-bloody-smile-joker.gif" alt="joker" />
 </div>
 <!-----
 ![snake animation](https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake2.svg)
