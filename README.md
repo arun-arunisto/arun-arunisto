@@ -1,8 +1,3 @@
-<style>
-  .container {
-    margin: 0 10px 0 10px;
-  }
-</style>
 <div class="conainer" align="center">
   <h1><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/> | ARUN ARUNISTO | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/></h2>
 </div>
@@ -11,6 +6,8 @@
 <div class="container" align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&weight=100&duration=3000&pause=500&color=1AF749&background=191A1900&center=true&vCenter=true&width=600&height=300&lines=Hi%2C+I'm+Arun+Arunisto;I'm+a+programmer.;I+have+no+life.+I+only+have+deadlines.;I'm+not+that+special.;I'm+just+anonymous.+I'm+just+alone." alt="Typing SVG" /></a>
 </div>
+<br>
+<br>
 <!---- widgetbox ----->
 
 
@@ -22,6 +19,8 @@
 arun-arunisto/arun-arunisto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br>
+<br>
 <div class="container" align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&weight=500&size=100&duration=1000&pause=100&color=1AF749&background=191A1900&center=true&vCenter=true&width=600&height=300&lines=EAT;SLEEP;CODE;REPEAT" alt="Typing SVG" /></a>
 </div>
