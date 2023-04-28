@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.icons8.com/color/48/null/linux--v1.png" alt="skills linux" />
 </div>
 <div class="container" align="center">
-  <h3 align="center">INSPIRATION</h3>
+  <h3 align="center">INSPIRED HEROES</h3>
   <hr>
   <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/ef/95/71/ef9571be608ba91555491782e7a6d9ed.jpg" alt="einstein" />
   <img style="height: 100px; width: 100px;" src="https://i.pinimg.com/originals/00/f2/ce/00f2ce959e16610876c75debdfde58de.jpg" alt="oppenheimer" />
