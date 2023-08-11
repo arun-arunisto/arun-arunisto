@@ -99,7 +99,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br>
 <br>
-<div class="container" align="center">
+<div class="container" align="center" hidden="hidden">
   <img src="https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
 </div>
 <br>
