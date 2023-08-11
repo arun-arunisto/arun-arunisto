@@ -99,11 +99,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br>
 <br>
-<div class="container" align="center" hidden="hidden">
+<!---- div class="container" align="center">
   <img src="https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
-</div>
-<br>
-<br>
+</div------>
 <div class="container" align="center">
   <img style="height: auto; width: 100%;" src="https://thumbs.gfycat.com/DrearyMelodicKookaburra-size_restricted.gif" alt="ironman" />
 </div>
