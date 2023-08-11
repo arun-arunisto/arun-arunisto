@@ -101,7 +101,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 <div class="container" align="center">
   <img style="height: auto; width:100%;" src="https://media.tenor.com/_KsnH9YVT5QAAAAC/kakashi.gif" alt="kakashi">
-</div>  
+</div>
+<br>
+<br>
 <!---- div class="container" align="center">
   <img src="https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
 </div------>
