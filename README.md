@@ -107,11 +107,14 @@ You can click the Preview link to take a look at your changes.
 <!---- div class="container" align="center">
   <img src="https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
 </div------>
-<!---- div class="container" align="center">
+<div class="container" align="center">
   <img style="height: auto; width: 100%;" src="https://media.tenor.com/9T6E07cFaQ0AAAAC/avengers-end-game-iron-man.gif" alt="ironman" />
-</div ----->
+</div>
+
+
 ![snake animation](https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake2.svg)
 
+<!----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arun-arunisto&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-arunisto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -119,4 +122,4 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arun-arunisto)](https://git.io/streak-stats)
 
 
-![Robert Downey Jr Tony Stark GIF - Robert Downey Jr Tony Stark Iron Man - Discover   Share GIFs](https://user-images.githubusercontent.com/86800553/234852913-0534841f-6f24-49ef-aa45-b0de9ba506d6.gif)
+![Robert Downey Jr Tony Stark GIF - Robert Downey Jr Tony Stark Iron Man - Discover   Share GIFs](https://user-images.githubusercontent.com/86800553/234852913-0534841f-6f24-49ef-aa45-b0de9ba506d6.gif) ---->
