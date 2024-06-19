@@ -105,7 +105,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/arun-arunisto/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 
 <!--- div class="container" align="center">
