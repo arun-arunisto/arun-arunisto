@@ -105,12 +105,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-![Robert Downey Jr Tony Stark GIF - Robert Downey Jr Tony Stark Iron Man - Discover   Share GIFs](https://user-images.githubusercontent.com/86800553/234852913-0534841f-6f24-49ef-aa45-b0de9ba506d6.gif) 
 
-
-<!---- div class="container" align="center">
+<div class="container" align="center">
   <img src="https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
-</div------>
+</div>
 <!---- div class="container" align="center">
   <img style="height: auto; width: 100%;" src="https://media.tenor.com/9T6E07cFaQ0AAAAC/avengers-end-game-iron-man.gif" alt="ironman" />
 </div ----->
