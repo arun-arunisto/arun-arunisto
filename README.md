@@ -104,10 +104,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br>
 <br>
-
-![](https://raw.githubusercontent.com/arun-arunisto/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
-
-
 <!--- div class="container" align="center">
   <img src="https://github.com/arun-arunisto/arun-arunisto/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
 </div ---->
