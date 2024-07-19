@@ -2,6 +2,10 @@
   <h1><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/> | ARUN ARUNISTO | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/></h2>
 </div>
 <hr>
+<!----- Trophies ----->
+
+[![trophy](https://github-profile-trophy.vercel.app/?arun-arunisto=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!---- Typing Card ----->
 <div class="container" align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&weight=100&duration=3000&pause=500&color=1AF749&background=191A1900&center=true&vCenter=true&width=600&height=300&lines=Hi%2C+I'm+Arun+Arunisto;I'm+a+programmer.;I+have+no+life.+I+only+have+deadlines.;I'm+not+that+special.;I'm+just+anonymous.+I'm+just+alone." alt="Typing SVG" /></a>
