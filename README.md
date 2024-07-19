@@ -6,10 +6,8 @@
 <!----- Trophies ----->
 <br>
 <br>
-<center>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=arun-arunisto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
-</center>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=arun-arunisto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 <br>
