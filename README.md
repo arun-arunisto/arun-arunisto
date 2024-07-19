@@ -7,7 +7,7 @@
 <br>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/arun-arunisto=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arun-arunisto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 <br>
