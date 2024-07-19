@@ -21,10 +21,11 @@
 <br>
 <!---- widgetbox ----->
 
+<div class="container" align="center">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=arun-arunisto&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
-
+</div>
 
 <!---
 arun-arunisto/arun-arunisto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
