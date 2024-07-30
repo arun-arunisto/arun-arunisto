@@ -8,7 +8,7 @@
 <br>
 <div class="container" align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=arun-arunisto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arun-arunisto&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 <br>
