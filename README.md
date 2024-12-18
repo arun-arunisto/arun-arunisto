@@ -20,7 +20,11 @@
 <br>
 <br>
 <!---- widgetbox ----->
-
+<div class="container" align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arun-arnistoX&theme=xcode&hide_border=true" />
+</div>
+<br>
+<br>
 <div class="container" align="center">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=arun-arunisto&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
