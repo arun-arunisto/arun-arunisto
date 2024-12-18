@@ -116,7 +116,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 <div class="container" align="center">
-  <img style="height: auto; width:100%;" src="https://media.tenor.com/_KsnH9YVT5QAAAAC/kakashi.gif" alt="kakashi">
+  <img style="height: auto; width:100%;" src="https://media1.tenor.com/m/xiX52hplqEoAAAAd/iron-man-angry.gif" alt="kakashi">
 </div>
 <br>
 <br>
