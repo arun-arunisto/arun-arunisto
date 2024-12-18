@@ -21,11 +21,6 @@
 <br>
 <!---- widgetbox ----->
 <div class="container" align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arun-arnisto&theme=xcode&hide_border=true" />
-</div>
-<br>
-<br>
-<div class="container" align="center">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=arun-arunisto&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
@@ -39,6 +34,11 @@ You can click the Preview link to take a look at your changes.
 <br>
 <div class="container" align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&weight=500&size=100&duration=1000&pause=100&color=1AF749&background=191A1900&center=true&vCenter=true&width=600&height=300&lines=EAT;SLEEP;CODE;REPEAT" alt="Typing SVG" /></a>
+</div>
+<br>
+<br>
+<div class="container" align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arun-arunisto&theme=xcode&hide_border=true" />
 </div>
 <br>
 <br>
