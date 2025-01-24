@@ -2,7 +2,11 @@
   <h1><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/> | ARUN ARUNISTO | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/></h2>
 </div>
 <hr>
-
+<!---------------visitors count ------------------->
+<div class="container" align="center">
+  <p>Visitors Count</p>
+  <img src="https://profile-counter.glitch.me/arun-arunisto/count.svg" alt="Visitor's Count" />
+</div>
 <!----- Trophies ----->
 <br>
 <br>
