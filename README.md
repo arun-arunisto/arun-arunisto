@@ -3,10 +3,10 @@
 </div>
 <hr>
 <!---------------visitors count ------------------->
-<div class="container" align="center">
+<!---div class="container" align="center">
   <p>Visitors Count</p>
   <img src="https://profile-counter.glitch.me/arun-arunisto/count.svg" alt="Visitor's Count" />
-</div>
+</div--->
 <!----- Trophies ----->
 <br>
 <br>
